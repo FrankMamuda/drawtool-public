@@ -7,3 +7,5 @@
 
  
 ![Screenshot](images/example.png)
+
+Refer to the [release page](https://github.com/FrankMamuda/drawtool-public/releases) for downloads.
